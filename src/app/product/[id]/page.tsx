@@ -94,7 +94,7 @@ export default function ProductDetail({
 
   return (
     <div className="flex items-center justify-center min-h-screen px-4">
-      <div className="flex max-w-4xl w-full">
+      <div className="flex max-w-4xl w-full  flex-col sm:flex-row items-center m-0 p-0 min-h-screen space-y-0 justify-center">
         {/* Image Section */}
         <div className="w-1/2 p-4">
           <Image
@@ -117,7 +117,7 @@ export default function ProductDetail({
               Original Price: ${product.originalPrice}
             </p>
           )}
-          <p className="text-gray-700 mt-4">
+          <p className="text-gray-700 mt-4  text-justify ">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates
             fugiat explicabo olore provident cum eveniet distinctio, perspiciatis
             dolore provident cum eveniet error illo esse accusamus voluptatibus
@@ -141,3 +141,4 @@ export default function ProductDetail({
     </div>
   );
 }
+ 
