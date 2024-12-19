@@ -12,7 +12,7 @@ export default function Categories() {
     {
       name: "Wooden Chair",
       products: "157 Products",
-      image: "/lakri.jpg",
+      image: "/lakri.png",
       href: "/categories/wooden-chair",
     },
     {
