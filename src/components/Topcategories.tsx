@@ -12,7 +12,8 @@ export default function Categories() {
     {
       name: "Wooden Chair",
       products: "157 Products",
-      image: "/imageee.png",
+      image: "/imageee .png
+        ",
       href: "/categories/wooden-chair",
     },
     {
