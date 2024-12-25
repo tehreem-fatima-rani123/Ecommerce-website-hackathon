@@ -14,8 +14,8 @@ const Product = () => {
           <div className="h-[377px] w-full">
             <Image
               className="h-[312px] w-full rounded-[6px]"
-              src="/Image (00).png"
-              alt="chair"
+              src="/Image (00).png "
+              alt="chair1"
               height={500}
               width={500}
             />
@@ -33,8 +33,8 @@ const Product = () => {
           <div className="h-[377px] w-full">
             <Image
               className="h-[312px] w-full rounded-[6px]"
-              src="/Image (1).png"
-              alt="chair"
+              src="/Image (1).png "
+              alt="chair2"
               height={500}
               width={500}
             />
@@ -50,8 +50,8 @@ const Product = () => {
           <div className="h-[377px] w-full">
             <Image
               className="h-[312px] w-full rounded-[6px]"
-              src="/image-123.jpeg"
-              alt="chair"
+              src="/image-123.jpeg "
+              alt="chair3"
               height={500}
               width={500}
             />
