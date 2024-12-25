@@ -68,7 +68,7 @@ const Product = () => {
             <Image
               className="h-[312px] w-full rounded-[6px]"
               src="/naina.png"
-              alt="chair"
+              alt="chair4"
               height={500}
               width={500}
             />
@@ -89,7 +89,7 @@ const Product = () => {
             <Image
               className="h-[312px] w-full rounded-[6px]"
               src="/frame-1.png"
-              alt="chair"
+              alt="chair5"
               height={500}
               width={500}
             />
@@ -108,7 +108,7 @@ const Product = () => {
             <Image
               className="h-[312px] w-full rounded-[6px]"
               src="/card-1.png"
-              alt="chair"
+              alt="chair6"
               height={500}
               width={500}
             />
@@ -125,7 +125,7 @@ const Product = () => {
             <Image
               className="h-[312px] w-full rounded-[6px]"
               src="/image-2.png"
-              alt="chair"
+              alt="chair7"
               height={500}
               width={500}
             />
@@ -142,7 +142,7 @@ const Product = () => {
             <Image
               className="h-[312px] w-full rounded-[6px]"
               src="/products-2.png"
-              alt="chair"
+              alt="chair8"
               height={500}
               width={500}
             />
