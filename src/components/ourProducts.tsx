@@ -34,7 +34,7 @@ const Product = () => {
           <div className='h-[377px] w-full'>
             <Image
               className='h-[312px] w-full rounded-[6px]'
-              src="/Image.jpg"
+              src="/Image (1).jpg"
               alt='chair2'
               height={500}
               width={500}
