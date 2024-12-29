@@ -51,7 +51,7 @@ export default function Newsletter(){
           </div>
           <div className="aspect-square relative overflow-hidden rounded-lg">
             <Image
-              src="/image (1).png"
+              src="/Image (1).png"
               alt="Instagram product 3"
               layout="fill"
               objectFit="cover"
@@ -67,7 +67,7 @@ export default function Newsletter(){
           </div>
           <div className="aspect-square relative overflow-hidden rounded-lg">
             <Image
-              src="/Image 123.jpeg"
+              src="/image 123.jpeg"
               alt="Instagram product 5"
               layout="fill"
               objectFit="cover"
